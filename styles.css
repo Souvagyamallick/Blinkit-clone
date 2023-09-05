@@ -219,3 +219,15 @@ header .container {
     border-radius: 3px;
     background-color: var(--col-lightgreen);
 }
+
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    position: relative;
+    top: 85px;
+}
+
+.fa-heart{
+    color: red;
+}
